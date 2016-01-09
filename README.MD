@@ -1,0 +1,2 @@
+- bundle install
+- cucumber --init
